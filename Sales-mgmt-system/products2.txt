@@ -1,0 +1,9 @@
+cat|12|home|987467221|food|8#
+dog|13|road|6782342525|biscuit|4#
+apple|67|store|547367226|cover|47#
+ball|879|jkadvbk|235235923|cay|78#
+tejuice|56|basav|35264373|soap|24#
+vignesh|64|sfaavca|562513141|oakdaod|65#
+andy|9|aihova|748r295|pen|78#
+Donkey|536|pg|95202439|book|6#
+vignesh|1|ksadfvklna|123456|wiuefg|5#
