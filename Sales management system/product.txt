@@ -1,0 +1,4 @@
+0|tarun|111|bangalore|7632456378|deodrant|3|2022:07:17 - 22:22:20
+67|yogeesh|124|tumkur|9879865674|water-bottle|3|2022:07:17 - 22:22:50
+272|vignesh|117|dharmasthala|8794577689|shoes|2|2022:07:21 - 21:18
+271|rohit|084|chikbidrikal|9856123453|pen|45|2022:07:21 - 21:25:13
